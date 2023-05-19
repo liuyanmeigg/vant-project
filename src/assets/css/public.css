@@ -1,0 +1,44 @@
+.el-main {
+    background-color: #f6f5f4;
+    padding: 0 11px;
+}
+
+
+
+.el-card__body,
+.el-main {
+    padding-top: 0 !important;
+}
+
+.el-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.el-breadcrumb__inner,
+.el-breadcrumb__inner.is-link {
+    font-size: 14px;
+    color: #505050;
+    font-weight: 700 !important;
+}
+
+.el-button.is-round {
+    width: 120px;
+    height: 32px;
+    line-height: 8px;
+}
+
+.el-card {
+
+    height: 588px;
+}
+
+.el-table {
+    width: 100%;
+}
+
+.el-link {
+    color: #409EFF;
+}
